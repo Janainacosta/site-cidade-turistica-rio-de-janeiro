@@ -1,0 +1,76 @@
+<style>
+      body{
+        background-color: LightBlue ;
+      }
+      h1, blockquote{
+        text-align: center;
+      }
+
+    
+
+      #colunas>div>div{
+        background-color: LightBlue;
+        border-left: thin black solid; 
+      }
+      #figura, #video, footer{
+        text-align: center;
+      }
+      nav {
+        padding: 10px;
+        background-color: SteelBlue;
+      }
+      nav ul{
+      
+    
+      padding-left: 0em;
+      text-align: right;
+    }
+    nav li{
+      display: inline-block;
+      text-align: right;
+    }
+    nav a{
+    
+      padding: 5px 1em;
+      background-color: white:
+      border-radius: 20px;
+      color: Black;
+    }
+    nav a:hover{
+      background-color: Yellow;
+
+    } body{
+        background-color:  LightBlue;
+      }
+      h1, blockquote{
+        text-align: center;
+      }
+
+      #colunas>div>div{
+        background-color: LightBlue;
+        border-left: thin black solid; 
+      }
+      #figura, #video, footer{
+        text-align: center;
+      }
+      nav ul{
+      
+    
+      padding-left: 0em;
+      text-align: right;
+    }
+    nav a{
+    
+      padding: 5px 1em;
+      background-color: white:
+      border-radius: 20px;
+      color: Black;
+    }
+    nav a:hover{
+      background-color: Yellow;
+
+    }
+    footer{
+        text-align: center;
+       }
+    </style>
